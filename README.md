@@ -9,6 +9,15 @@
       -  For this image classification; I used an image classification application using a deep learning model called CNN (Convolutional Neural Network).
       -  I also used a dataset from [Slack](https://image-net.org/) [Slack](https://slack.com/)
       
+      
+### About
+
+"bridge" is RSS feeds reader.  
+And RSS feeds convert into json,  
+And execute HTTP POST your team [Slack](https://slack.com/) or [Discord](https://discordapp.com/) webhook.  
+This app written a pure Golang.      
+      
+      
           
 
 
