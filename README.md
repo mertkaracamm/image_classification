@@ -4,9 +4,10 @@
   
  In this project:
  
-      -  I will use a created image classifier to identify dog breeds using Python.
-      -  The program will determine which image classification algorithm works the "best" on classifying images as "dogs" or "not dogs".
-      -  For this image classification; I will be using an image classification application using a deep learning model called CNN (Convolutional Neural Network).
+      -  I used a created image classifier to identify dog breeds using Python.
+      -  The program determines which image classification algorithm works the "best" on classifying images as "dogs" or "not dogs".
+      -  For this image classification; I used an image classification application using a deep learning model called CNN (Convolutional Neural Network).
+      -  I also used a dataset from <a href="https://www.google.com/" target="_blank">Google</a> whis is already 
       
           
 
